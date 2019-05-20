@@ -220,12 +220,19 @@ input[type=submit] {
 
 
 @media screen and (max-width: 980px) {
-  #logo {
-    
+  .container {
+    clear: both;
   }
+  nav  {
+    margin-right: 10%;
   }
   @media screen and (max-width: 768px) {
-    
+    .container {
+      clear: both;
+    }
+    nav  {
+      margin-left: 10%;
+    }
   }
   @media screen and (max-width: 640px) {
     #masthead {
