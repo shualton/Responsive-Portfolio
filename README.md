@@ -5,9 +5,9 @@
 
 Added responsiveness styling elements to basic portfolio given from template. Changed heading element at 3 different sizes (980px, 768px, 640px)
 
-#technologies-used
+# technologies-used
 html
 css
 
-#Authors
+# Authors
 Alton Shu
